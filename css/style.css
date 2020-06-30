@@ -114,3 +114,7 @@ input[type="submit"]:hover {
   background-color: #0077B5;
 }
 
+/* register */
+#register-container p{
+  margin-bottom: 10px;
+}
