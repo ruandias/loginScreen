@@ -1,0 +1,28 @@
+/*all*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+  color: #323232;
+  border: none;
+}
+
+body {
+  background-image: url('../img/background.jpg');
+  background-size: cover;
+  background-position-y: -700px;
+}
+
+textarea:focus, input:focus {
+  outline: none;
+}
+
+a {
+  font-size: .8rem;
+}
+
+a:hover {
+  color: #08558B;
+}
